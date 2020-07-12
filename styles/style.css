@@ -1,0 +1,51 @@
+
+body{
+    background-color: #F3F1FF;
+}
+.navbar img{
+    width: 40px;
+    height: 51;
+}
+.container{
+    width: 870px;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
+main{
+    width: 870px;
+}
+.top-blog img{
+    width: 177px;
+    height: 117px;
+}
+.single-blog{
+    padding: 20px 20px 20px 18px;
+}
+hr{
+    width: 95%;
+}
+.courses{
+    width: 870px;
+    background-color: #fff;
+    margin: auto;
+}
+.courses .card{
+    border-radius: 15px;
+}
+.star-section img{
+    width: 15px;
+    margin-left: -5px;
+}
+.courses .card-text{
+    color: #ED6B4F;
+}
+.star-section button{
+    border-radius: 20px;
+    background-color: #FEE5DF;
+    color: #ED6B4F;
+}
+.star-section .watch{
+    width: 20px;
+}
